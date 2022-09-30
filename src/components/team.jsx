@@ -5,7 +5,7 @@ const team = () => {
     <div className='h-screen w-full bg-gradient-to-b from-white to-green-200'>
 
         <div>
-                <h1 className=' mt-4 text-center text-4xl sm:text-5xl font-bold font-mono'>Our Team.</h1>
+                <h1 className=' mt-4 text-center text-4xl sm:text-5xl font-bold font-mono team'>Our Team.</h1>
             </div>
 
             <div className='flex flex-wrap mt-4 justify-center items-center'>

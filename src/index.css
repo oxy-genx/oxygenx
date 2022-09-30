@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bm-burger-button{
+    display: none;
+}
+.bm-menu{
+    background: hsl(142, 69%, 58%);
+}
+.bm-item{
+    color: black;
+}
+.brand-name{
+    justify-content: center;
+}
+@media screen and (max-width: 760px) {
+    .team{
+        margin-top: 8rem;
+    }
+    .text-black{
+        text-align: center;
+    }
+    .bm-burger-button{
+        display: block;
+    }
+}
