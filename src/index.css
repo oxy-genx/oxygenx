@@ -11,9 +11,6 @@
 .bm-item{
     color: black;
 }
-.brand-name{
-    justify-content: center;
-}
 @media screen and (max-width: 760px) {
     .team{
         margin-top: 8rem;
@@ -24,4 +21,7 @@
     .bm-burger-button{
         display: block;
     }
+.brand-name{
+    justify-content: center;
+}
 }
