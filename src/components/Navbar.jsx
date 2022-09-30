@@ -8,7 +8,7 @@ const navbar = () => {
 
     
 
-    <div className='flex justify-between items-center w-full h-20 px-4 backdrop-blur-sm text-green-400 font-mono font-bold fixed'>
+    <div className='flex justify-between items-center w-full h-20 px-4 backdrop-blur-sm text-green-400 font-mono font-bold fixed brand-name'>
 
         <div className='' >
             <h1 className='text-4xl ml-2'>Oxy<span className=' hover:text-black duration-200'>gen</span>X</h1>
