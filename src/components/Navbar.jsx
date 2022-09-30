@@ -6,10 +6,12 @@ const navbar = () => {
 
   return (
 
-    <div className='flex justify-between items-center w-full h-20 px-4 text-green-400 font-mono font-bold fixed'>
+    
 
-        <div>
-            <h1 className='text-4xl ml-2'>OxygenX</h1>
+    <div className='flex justify-between items-center w-full h-20 px-4 backdrop-blur-sm text-green-400 font-mono font-bold fixed'>
+
+        <div className='' >
+            <h1 className='text-4xl ml-2'>Oxy<span className=' hover:text-black duration-200'>gen</span>X</h1>
             <p className='text-black'>.live</p>
         </div>
 
@@ -23,12 +25,10 @@ const navbar = () => {
 
         </ul>
 
-        
-
-        
-    
-
+      
     </div>
+   
+    
 
   )
 }
