@@ -8,21 +8,21 @@ const team = () => {
                 <h1 className=' mt-4 text-center text-4xl sm:text-5xl font-bold font-mono team'>Our Team.</h1>
             </div>
 
-            <div className='flex flex-wrap mt-10 justify-center items-center'>
-                <div className="p-4 lg:w-1/4 md:w-1/2">
+            <div className='flex flex-wrap mt-10 justify-center items-center bg-black border-green-300 border-4'>
+                <div className="p-4 m-2 lg:w-1/4 md:w-1/2 border-2 border-green-300">
                     <div className="h-full flex flex-col items-center text-center">
-                        <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://pbs.twimg.com/profile_images/1566051333257302018/rDKr6X6M_400x400.jpg" />
+                        <img alt="team" className="flex-shrink-0 border-2 border-white w-full h-56 object-cover object-center mb-4" src="https://pbs.twimg.com/profile_images/1566051333257302018/rDKr6X6M_400x400.jpg" />
                         <div className="w-full">
-                            <h2 className="title-font font-medium text-lg text-gray-900">Yash Deharia</h2>
-                            <h3 className="text-gray-500 mb-3">Founder & CEO</h3>
-                            <p className="mb-4">Working on smart contract from back & also making user interface look better</p>
+                            <h2 className="title-font font-medium text-lg text-green-300">Yash Deharia</h2>
+                            <h3 className="text-white mb-3">Founder & CEO</h3>
+                            <p className="mb-4 text-white">Working on smart contract from back & also making user interface look better</p>
                             <span className="inline-flex">
-                                <button className="text-gray-500" >
+                                <button className="text-white bg-sky-400 rounded-sm" >
                                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
                                         <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
                                     </svg>
                                 </button>
-                                <button className="ml-2 text-gray-500" >
+                                <button className="ml-2 text-sky-400" >
                                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
                                         <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
                                     </svg>
@@ -38,20 +38,20 @@ const team = () => {
 
                 </div>
 
-                <div className="p-4 lg:w-1/4 md:w-1/2">
+                <div className="p-4 m-2 lg:w-1/4 md:w-1/2 border-2 border-green-300">
                     <div className="h-full flex flex-col items-center text-center">
-                        <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://media-exp1.licdn.com/dms/image/C4D03AQG9YCVYrx_ZBQ/profile-displayphoto-shrink_200_200/0/1663761703107?e=1669852800&v=beta&t=RZ-1rxvo_xtIz66ZxsDmsfAcCpjGj2ek_Rtvv6W411k" />
+                        <img alt="team" className="flex-shrink-0 border-2 border-white w-full h-56 object-cover object-center mb-4" src="https://media-exp1.licdn.com/dms/image/C4D03AQG9YCVYrx_ZBQ/profile-displayphoto-shrink_200_200/0/1663761703107?e=1669852800&v=beta&t=RZ-1rxvo_xtIz66ZxsDmsfAcCpjGj2ek_Rtvv6W411k" />
                         <div className="w-full">
-                            <h2 className="title-font font-medium text-lg text-gray-900">Rahul Karda</h2>
-                            <h3 className="text-gray-500 mb-3">Co-founder & CTO</h3>
-                            <p className="mb-4">Working on develoment and Interface on the Oxygenx web-app</p>
+                            <h2 className="title-font font-medium text-lg text-green-300">Rahul Karda</h2>
+                            <h3 className="text-white mb-3">Co-founder & CTO</h3>
+                            <p className="mb-4 text-white">Working on develoment and Interface on the Oxygenx web-app</p>
                             <span className="inline-flex">
-                                <button className="text-gray-500" >
+                                <button className="text-white bg-sky-400 rounded-sm" >
                                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
                                         <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
                                     </svg>
                                 </button>
-                                <button className="ml-2 text-gray-500" >
+                                <button className="ml-2 text-sky-400" >
                                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
                                         <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
                                     </svg>
