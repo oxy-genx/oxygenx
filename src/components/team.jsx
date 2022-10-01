@@ -8,7 +8,7 @@ const team = () => {
                 <h1 className=' mt-4 text-center text-4xl sm:text-5xl font-bold font-mono team'>Our Team.</h1>
             </div>
 
-            <div className='flex flex-wrap mt-4 justify-center items-center'>
+            <div className='flex flex-wrap mt-10 justify-center items-center'>
                 <div className="p-4 lg:w-1/4 md:w-1/2">
                     <div className="h-full flex flex-col items-center text-center">
                         <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://pbs.twimg.com/profile_images/1566051333257302018/rDKr6X6M_400x400.jpg" />
