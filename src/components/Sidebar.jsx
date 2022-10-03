@@ -6,7 +6,8 @@ import '../Sidebar.css';
 const Sidebar = () => {
   return (
     <div className='sidebar'>
-    <Menu>
+    <Menu className='font-mono'>
+      
       <a className="menu-item" href="/">
         Home
       </a>
@@ -25,6 +26,7 @@ const Sidebar = () => {
       <a className="menu-item" href="/oxytoken">
         Oxy Token
       </a>
+      
     </Menu>
     </div>
   );
