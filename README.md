@@ -20,7 +20,8 @@ This is a code repository for the OxgenX Web3 App and OxygenX Smart Contract bui
 
 ## Facebook.
 <img src="https://img.shields.io/badge/Facebook-0978E1?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-## Twitter
+
+## Twitter.
 <img src="https://img.shields.io/badge/Twitter-1C93E4?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
 
 
