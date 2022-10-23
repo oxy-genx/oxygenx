@@ -19,6 +19,14 @@ This is a code repository for the OxgenX Web3 App and OxygenX Smart Contract bui
 <img src="https://aleen42.github.io/badges/src/reddit.svg" alt="discord"/>
 
 ## Facebook.
+<img src="https://img.shields.io/badge/Facebook-0978E1?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+
+## Twitter.
+<img src="https://img.shields.io/badge/Twitter-1C93E4?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+
+
+## LinkedIn.
+<img src="https://img.shields.io/badge/LinkedIn-0961B8?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
 
 
 ## License
