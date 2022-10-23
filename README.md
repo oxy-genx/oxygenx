@@ -10,7 +10,15 @@ A Blockchain based startup which has aim "To Plant Trees and Give Ownership in t
 ## Introduction
 This is a code repository for the OxgenX Web3 App and OxygenX Smart Contract built using Web 3.0 methodologies and React.
 
-## Roadmap
+# Social :
+
+## Discord.
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+
+## Reddit.
+<img src="https://aleen42.github.io/badges/src/reddit.svg" alt="discord"/>
+
+## Facebook.
 
 
 ## License
