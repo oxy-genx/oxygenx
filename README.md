@@ -7,6 +7,9 @@ A Blockchain based startup which has aim "To Plant Trees and Give Ownership in t
 - Yash Deharia (@yashdeharia)
 - Rahul Karda (@rahulkarda)
 
+## Founder Socials.
+- Twitter(https://twitter.com/YDeharia)
+
 ## Introduction
 This is a code repository for the OxgenX Web3 App and OxygenX Smart Contract built using Web 3.0 methodologies and React.
 
