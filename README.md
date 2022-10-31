@@ -1,7 +1,7 @@
 # OxygenX - Web 3.0 Blockchain Application
 A Blockchain based startup which has aim "To Plant Trees and Give Ownership in the form of NFT's and tokens".
 
-![OxygenX-Smart-Contract]
+![OxygenX-Smart-Contract](https://thumbs.dreamstime.com/b/nature-forest-trees-growing-to-upward-to-sun-wallpaper-42907586.jpg)
 
 ## Founding Team 
 - Yash Deharia (@yashdeharia)
