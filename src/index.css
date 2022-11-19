@@ -1,13 +1,27 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.bm-burger-button{
+    display: none;
+}
+.bm-menu{
+    background: hsl(142, 69%, 58%);
+}
+.bm-item{
+    color: black;
+}
+@media screen and (max-width: 760px) {
+    .team{
+        margin-top: 8rem;
+    }
+    .text-black{
+        text-align: center;
+    }
+    .bm-burger-button{
+        display: block;
+    }
+.brand-name{
+    justify-content: center;
+}
 }
