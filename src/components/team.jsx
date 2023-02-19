@@ -40,11 +40,11 @@ const team = () => {
 
                 <div className="p-4 m-2 lg:w-1/4 md:w-1/2 border-2 border-green-300">
                     <div className="h-full flex flex-col items-center text-center">
-                        <img alt="team" className="flex-shrink-0 border-2 border-white w-full h-56 object-cover object-center mb-4" src="https://media-exp1.licdn.com/dms/image/C4D03AQG9YCVYrx_ZBQ/profile-displayphoto-shrink_200_200/0/1663761703107?e=1669852800&v=beta&t=RZ-1rxvo_xtIz66ZxsDmsfAcCpjGj2ek_Rtvv6W411k" />
+                        <img alt="team" className="flex-shrink-0 border-2 border-white w-full h-56 object-cover object-center mb-4" src="https://media.licdn.com/dms/image/D4D03AQFBa8_25JT-mw/profile-displayphoto-shrink_400_400/0/1672921604766?e=1682553600&v=beta&t=GsdiQa6guW3sdyfgLAMUltp7OWaorNRu7GRDimjbhf4" />
                         <div className="w-full">
                             <h2 className="title-font font-medium text-lg text-green-300">Rahul Karda</h2>
                             <h3 className="text-white mb-3">Co-founder & CTO</h3>
-                            <p className="mb-4 text-white">Working on develoment and Interface on the Oxygenx web-app</p>
+                            <p className="mb-4 text-white">Working on Smart Contract development and User Interface on the Oxygenx web-app</p>
                             <span className="inline-flex">
                                 <button className="text-white bg-sky-400 rounded-sm" >
                                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
