@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bm-burger-button{
+    display: none;
+}
+.bm-menu{
+    /* background: hsl(142, 69%, 58%); */
+    /* background: transparent; */
+
+    background-color: rgba(255, 255, 255, 0.4);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    
+
+}
+.bm-item{
+    color: black;
+}
+@media screen and (max-width: 760px) {
+    .team{
+        margin-top: 8rem;
+    }
+    .text-black{
+        text-align: center;
+    }
+    .bm-burger-button{
+        display: block;
+    }
+.brand-name{
+    justify-content: center;
+}
+}
